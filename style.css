@@ -1,0 +1,16 @@
+body{
+    background-color: darkgray;
+}
+
+.mydiv{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    width:1000px;
+
+}
+.drop{
+    width: 500px;
+    margin-bottom: 5px;
+}
