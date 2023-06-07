@@ -1,0 +1,30 @@
+.mydiv{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    width:1000px;
+
+}
+.drop{
+    width: 500px;
+    margin-bottom: 5px;
+}
+
+
+/* .mylist1{
+    color: red;
+
+}
+.mylist2{
+    color: green;
+}
+.mylist3{
+   color: white;
+}
+.mylist4{
+    color: black;
+}
+.mylist5{
+    color: yellow;
+} */
